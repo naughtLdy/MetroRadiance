@@ -73,7 +73,7 @@
     <Page Include="Styles\Controls.ComboBox.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
-			<DependentUpon>Controls.xaml</DependentUpon>
+      <DependentUpon>Controls.xaml</DependentUpon>
     </Page>
     <Page Include="Styles\Controls.ComboBoxItem.xaml">
       <SubType>Designer</SubType>
@@ -84,6 +84,11 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
       <DependentUpon>Controls.xaml</DependentUpon>
+    </Page>
+    <Page Include="Styles\Controls.ListBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+			<DependentUpon>Controls.xaml</DependentUpon>
     </Page>
     <Page Include="Styles\Controls.ScrollBar.xaml">
       <SubType>Designer</SubType>
