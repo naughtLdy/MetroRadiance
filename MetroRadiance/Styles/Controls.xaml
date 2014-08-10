@@ -10,6 +10,7 @@
 		<ResourceDictionary Source="pack://application:,,,/MetroRadiance;component/Styles/Controls.FocusVisualStyle.xaml" />
 		<ResourceDictionary Source="pack://application:,,,/MetroRadiance;component/Styles/Controls.ListBox.xaml" />
 		<ResourceDictionary Source="pack://application:,,,/MetroRadiance;component/Styles/Controls.ListBoxItem.xaml" />
+		<ResourceDictionary Source="pack://application:,,,/MetroRadiance;component/Styles/Controls.Menu.xaml" />
 		<ResourceDictionary Source="pack://application:,,,/MetroRadiance;component/Styles/Controls.RadioButton.xaml" />
 		<ResourceDictionary Source="pack://application:,,,/MetroRadiance;component/Styles/Controls.Scrollbar.xaml" />
 		<ResourceDictionary Source="pack://application:,,,/MetroRadiance;component/Styles/Controls.Slider.xaml" />
